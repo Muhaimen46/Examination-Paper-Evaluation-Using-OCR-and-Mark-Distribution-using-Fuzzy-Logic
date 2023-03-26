@@ -1,0 +1,1 @@
+Deep spellingInitial goal was to study and implementation of the segmentation of different word.
